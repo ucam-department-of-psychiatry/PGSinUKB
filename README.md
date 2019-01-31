@@ -1,4 +1,4 @@
-# PGSinUKB
+# Polygenic Risk Scores in UK BioBank
 
 This is a script to generate a PGS file in the UKB
 
